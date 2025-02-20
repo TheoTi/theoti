@@ -1,4 +1,4 @@
-## Olá! Eu sou o Matheus Fernandes
+## Hi! I'm Matheus, a 22-year-old fullstack developer with a passion for technology that began at age 10, when I was already exploring HTML, CSS, and solving computer problems at home. At 14, I dove headfirst into software development and today I specialize in the JavaScript ecosystem, working with ReactJS, React Native, Node.js, and AWS.
  <div>
   <a href="https://github.com/theoti">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=theoti&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
